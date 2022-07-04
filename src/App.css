@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+}
+
+.editor-list__items {
+  margin-left: 30px;
+}
